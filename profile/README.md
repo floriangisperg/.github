@@ -1,6 +1,6 @@
 # Hi, I'm Florian 👋
 
-I'm a PhD researcher working at the interface of bioprocess engineering, scientific machine learning, and experimental optimization.
+I'm a PhD researcher in an industrial collaboration working at the interface of bioprocess engineering, scientific machine learning, and experimental optimization.
 
 My work focuses on building data-driven and hybrid modeling workflows for biological processes, including protein refolding, fermentation, and downstream processing. I am especially interested in how Bayesian optimization, mechanistic models, and uncertainty-aware machine learning can work together and support better experimental decision-making.
 
