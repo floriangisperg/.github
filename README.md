@@ -2,7 +2,7 @@
 
 I'm a PhD researcher working at the interface of bioprocess engineering, scientific machine learning, and experimental optimization.
 
-My work focuses on building data-driven and hybrid modeling workflows for biological processes, including protein refolding, fermentation, and downstream processing. I am especially interested in how Bayesian optimization, mechanistic models, and uncertainty-aware machine learning can support better experimental decision-making.
+My work focuses on building data-driven and hybrid modeling workflows for biological processes, including protein refolding, fermentation, and downstream processing. I am especially interested in how Bayesian optimization, mechanistic models, and uncertainty-aware machine learning can word together and support better experimental decision-making.
 
 ## Current interests
 
@@ -11,13 +11,14 @@ My work focuses on building data-driven and hybrid modeling workflows for biolog
 - Scientific machine learning and AI for engineering
 - Protein refolding, inclusion bodies, and downstream process development
 - Uncertainty quantification for model-based decisions
+- AI Agents and agentic workflows
 
-## Selected work
+## Selected work and projects
 
-- Hybrid ODE/ML models for *E. coli* fermentation
-- Bayesian optimization workflows for buffer and process optimization
-- Fluorescence-based monitoring of protein refolding
-- Modeling high-pressure homogenization and cell disruption processes
+- Hybrid ODE/ML models
+- (Physics-informed) Bayesian optimization workflows for process optimization
+- Soft-sensors for monitoring of protein refolding
+- AI Agents for smart tech transfer in biopharmaceutical industry
 
 ## Tools I use
 
@@ -25,6 +26,6 @@ Python · JAX · Equinox · Diffrax · PyTorch · BoTorch · GPyTorch · NumPy �
 
 ## Find me
 
-- LinkedIn: [linkedin.com/in/florian-gisperg](https://linkedin.com/in/florian-gisperg)
-- Google Scholar: [scholar.google.com](https://scholar.google.com)
-- Email: florian.gisperg@example.com
+- [LinkedIn](https://www.linkedin.com/in/florian-gisperg-295285264/)
+- [Google Scholar](https://scholar.google.com/citations?user=O0PHaq0AAAAJ&hl=de)
+- Email: florian[at]gisperg.com
